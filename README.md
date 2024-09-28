@@ -1,5 +1,5 @@
 # unfairUndyne
-Ece 241 project
+Ece 243 project
 
 
 All files should be in the same directory for running the project. This is compatible with VGA Displays and PS2 Keyboards. 
